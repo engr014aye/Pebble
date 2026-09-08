@@ -1,0 +1,44 @@
+{
+  "prompts": [
+    {
+      "id": 1,
+      "category": "Mind",
+      "prompt": "What brought you a silent moment of calm today?"
+    },
+    {
+      "id": 2,
+      "category": "Mind",
+      "prompt": "Name one sensation (a breeze, a sound, a taste) that grounded you."
+    },
+    {
+      "id": 3,
+      "category": "Career",
+      "prompt": "What meaningful progress did you make today, however modest?"
+    },
+    {
+      "id": 4,
+      "category": "Career",
+      "prompt": "What is one challenge you navigated with patience?"
+    },
+    {
+      "id": 5,
+      "category": "Health",
+      "prompt": "How did your body feel throughout the morning and evening?"
+    },
+    {
+      "id": 6,
+      "category": "Health",
+      "prompt": "What nourishment or movement restored your energy today?"
+    },
+    {
+      "id": 7,
+      "category": "Routine",
+      "prompt": "What small ritual anchored your morning or wind-down routine?"
+    },
+    {
+      "id": 8,
+      "category": "Routine",
+      "prompt": "What is one thing you are looking forward to tomorrow?"
+    }
+  ]
+}
